@@ -1,0 +1,6 @@
+{
+  "name": "Bank Statement OCR Parser",
+  "description": "An expert financial document parser and OCR engine that extracts transactions from PDFs and images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
